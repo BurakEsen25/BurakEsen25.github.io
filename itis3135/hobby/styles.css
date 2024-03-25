@@ -13,11 +13,11 @@ header, nav, section, footer {
 }
 nav a {
   text-decoration: none;
-  color: #89f19b;
+  color: #ffffff;
   margin-right: 20px;
 }
 nav a:hover {
-  color: #ff6600;
+  color: #ffffff;
 }
 h1, h2, h3 {
   color: #ffffff;
@@ -33,6 +33,6 @@ footer {
   background-color: #854848;
   text-align: center;
   font-size: 14px;
-  color: #666;
+  color: #ffffff;
 }
 

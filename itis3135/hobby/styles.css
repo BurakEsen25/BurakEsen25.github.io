@@ -13,14 +13,14 @@ header, nav, section, footer {
 }
 nav a {
   text-decoration: none;
-  color: #444;
-  margin-right: 19px;
+  color: #89f19b;
+  margin-right: 20px;
 }
 nav a:hover {
   color: #ff6600;
 }
 h1, h2, h3 {
-  color: #333;
+  color: #ffffff;
 }
 section {
   padding: 20px;

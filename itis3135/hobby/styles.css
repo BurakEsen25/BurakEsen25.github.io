@@ -1,19 +1,19 @@
 body {
   font-family: Arial, sans-serif;
-  background-color: rgb(217, 240, 115);
-  color: white;
+  background-color: tan;
+  color: navy;
   margin: 0;
   padding: 0;
 }
 header, nav, section, footer {
   padding: 20px;
-  background-color: tan;
+  background-color: rgb(141, 141, 141);
   margin-bottom: 20px;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 nav a {
   text-decoration: none;
-  color: #ffffff;
+  color: #1c06e2;
   margin-right: 20px;
 }
 nav a:hover {
@@ -24,7 +24,7 @@ h1, h2, h3 {
 }
 section {
   padding: 20px;
-  background-color: #301616;
+  background-color: #574f4f;
   margin-bottom: 20px;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }

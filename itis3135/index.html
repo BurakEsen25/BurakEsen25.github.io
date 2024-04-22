@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Burak Esen Bald Eagle || ITIS 3135 </title>
+    <link rel="stylesheet" href="styles/default.css"> 
 </head>
 <body>
     <header>
@@ -37,12 +38,20 @@
             ||
             <a href="https://www.linkedin.com/in/burak-esen-2786a4222/">LinkedIn</a>
         </nav>
-            <p>Page designed by <a href="baldeagle.com">Bald Eagle Company</a></p>
+            <p>Page designed by <a href="baldeagle.com">Bald Eagle Company </a>&copy; 2024</p>
             <a href="https://validator.w3.org/check?uri=referer" id="validation_link_html"> 
-                <img style="border:0;width:88px;height:31px" src="" alt="Valid HTML!">
+                <img style="border:0;width:88px;height:31px" src="https://BurakEsen25.github.io/itis3135/images/button_validation_html5.png" alt="Valid HTML!">
             </a>
-
+            <a href="https://jigsaw.w3.org/css-validator/check/referer" id="validation_link_css">
+                <img style="border:0;width:88px;height:31px" src="https://jigsaw.w3.org/css-validator/images/vcss" alt="Valid CSS!">
+                 </a>
+               
 
     </footer>
 </body>
+<script>
+    document.getElementById("validation_link_html").setAttribute("href","https://validator.w3.org/check?uri=" + location.href);
+         document.getElementById("validation_link_css").setAttribute("href","https://jigsaw.w3.org/css-validator/validator?uri=" + location.href);
+ </script>
+ 
 </html>

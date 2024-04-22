@@ -1,0 +1,28 @@
+body {
+    background-color: lavender;
+    text-align: center;
+    color: darkgreen;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+a{
+    color: darkorange;
+    text-decoration: none;
+}
+
+a:hover {
+    color:black;
+    text-decoration: line;
+}
+
+main {
+    text-align: left;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+h2{
+
+    text-align: center;
+
+
+}
